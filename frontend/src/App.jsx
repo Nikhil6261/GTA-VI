@@ -85,7 +85,7 @@ const App = () => {
             href='./bg.png'
             width="100%"
             hanging="100%"
-            preserveAspectRatio='xMidYMidc slice'
+            preserveAspectRatio="xMidYMidc slice"
             mask="url(#viMask)"
           />
 
